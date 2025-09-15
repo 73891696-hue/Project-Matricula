@@ -27,4 +27,4 @@ Se trata de un sistema de **matrícula estudiantil** desarrollado en **Java con 
 Se configuró **GitHub Actions** para compilar automáticamente el proyecto en cada `push` o `pull request`.
 
 ## 📄 Autor
-- **Tu nombre**
+- **JOSE ANDERSON BUSTAMANTE PIMENTEL**

@@ -1,0 +1,25 @@
+# Archivos y carpetas de NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbantext/
+
+# Archivos de clases compiladas
+*.class
+
+# Archivos de configuración del IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
